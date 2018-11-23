@@ -1,8 +1,4 @@
 # CV
 
-<h2>Repo Info</h2>
-this repository contains info from the following labs:
-
-* Week 3 HTML lab- <a href="week3/cv.html"> creating an Html CV </a>
-
+<h1>My CV</h1>
 This CV was made by @ElsonCTC
